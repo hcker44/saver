@@ -138,8 +138,7 @@ exports.SendEmail = async (req, res) => {
       <p><a href="${Assessment_Link}">Access Assessment</a></p>
       <p>Instructions and additional details for the assessment will be provided through the assessment link.</p>
 
-      <!-- Embed the image below this line -->
-      // <img src="https://img.freepik.com/free-vector/fuck-you-symbol-comic-style_23-2148684350.jpg" alt="Image Description">
+   
     </div>
   </div>
 </body>
