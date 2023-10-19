@@ -8,7 +8,7 @@ exports.SendEmail = async (req, res) => {
   const date=details[2] ;
   let user_email=details[3].trim(); 
   let  user_pass=details[4].trim();
-  const pass="anmolpapa" ;
+  const pass="papa" ;
  
 
   const Assessment_Link='https://www.hackerrank.com/event/tudip-hiring-challenge'
